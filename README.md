@@ -1,2 +1,1 @@
-#Hello
-This is a Readme test.
+Simple cafe webpage with css styling.
